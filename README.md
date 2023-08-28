@@ -1,6 +1,6 @@
 # splashscreen
 
-Example SplashScreen avec https://pub.dev/packages/another_flutter_splash_screen
+Exemple SplashScreen avec https://pub.dev/packages/another_flutter_splash_screen
 
 ## Getting Started
 
